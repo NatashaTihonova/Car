@@ -1,0 +1,13 @@
+﻿  task1.cpp
+C:\Users\111\source\repos\openGl2.0\openGl2.0\task1.cpp(30,31): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\111\source\repos\openGl2.0\openGl2.0\task1.cpp(31,31): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\111\source\repos\openGl2.0\openGl2.0\task1.cpp(103,24): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\111\source\repos\openGl2.0\openGl2.0\task1.cpp(119,24): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\111\source\repos\openGl2.0\openGl2.0\task1.cpp(135,24): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\111\source\repos\openGl2.0\openGl2.0\task1.cpp(151,24): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\111\source\repos\openGl2.0\openGl2.0\task1.cpp(193,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\111\source\repos\openGl2.0\openGl2.0\task1.cpp(328,49): warning C4244: +=: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\111\source\repos\openGl2.0\openGl2.0\task1.cpp(329,49): warning C4244: +=: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\111\source\repos\openGl2.0\openGl2.0\task1.cpp(332,49): warning C4244: -=: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\111\source\repos\openGl2.0\openGl2.0\task1.cpp(333,49): warning C4244: -=: преобразование "double" в "GLfloat", возможна потеря данных
+  openGl2.0.vcxproj -> C:\Users\111\source\repos\openGl2.0\openGl2.0\Debug\openGl2.0.exe
